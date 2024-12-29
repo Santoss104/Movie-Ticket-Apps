@@ -11,7 +11,7 @@ An online movie ticket booking application allows users to choose movies, select
 
 ## Screenshots
 
-![App Screenshot](assets/screenshot/1.jpg) ![App Screenshot](assets/screenshot/2.jpg) ![App Screenshot](assets/screenshot/3.jpg)
+![App Screenshot](FE/assets/screenshot/1.jpg) ![App Screenshot](FE/assets/screenshot/2.jpg) ![App Screenshot](FE/assets/screenshot/3.jpg)
 
 
 
