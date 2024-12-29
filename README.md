@@ -3,18 +3,6 @@
 
 An online movie ticket booking application allows users to choose movies, select seats, and book tickets directly. This system offers a seamless experience by enabling users to complete the entire process from movie selection to seat reservation and ticket purchase without any hassle.
 
-
-
-
-
-
-
-## Screenshots
-
-![App Screenshot](FE/assets/screenshot/1.jpg) ![App Screenshot](FE/assets/screenshot/2.jpg) ![App Screenshot](FE/assets/screenshot/3.jpg)
-
-
-
 ## 📋 Features
 
 - Login/Register
