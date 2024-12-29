@@ -1,0 +1,9 @@
+node_modules/
+public/avatars/
+
+
+config/fb-credentials.json
+config/moviepass-adminsdk.json
+.env
+.env.server
+.prettierrc
